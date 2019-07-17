@@ -1,4 +1,6 @@
-# vue-imdb
+# jsrMoview - vue js
+# See live 
+Live Application [https://nagshukl.github.io/jsrmovies-vue-js/index.html](https://nagshukl.github.io/jsrmovies-vue-js/index.html)
 
 ## Project setup
 ```
